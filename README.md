@@ -5,7 +5,7 @@ this repo contains all of the lecture slides for Deepmind x UCL RL course taught
 
 - [youtube playlist](https://dpmd.ai/DeepMindxUCL21)
 
-- all slides available as a single pdf file: [All Lectures](./slides/All Lectures.pdf)
+- all slides available as a single pdf file: [All Lectures](slides/All Lectures.pdf)
 
 ## Slides
 [Lecture 1 - introduction](./slides/Lecture 1 - introduction.pdf)
